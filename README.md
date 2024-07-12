@@ -2,12 +2,12 @@
 
 I'm a full-stack developer with a passion for creating robust and scalable applications. I have experience working with a variety of programming languages including:
 
-- JavaScript 🌐
+- TypeScript/JavaScript 🌐
 - PHP 🐘
 - C# ☕️
 - Python 🐍
 
-My expertise in front-end technologies like React, Angular, and Vue.js, combined with my knowledge of back-end frameworks like MVC .NET, Node.js, and Laravel, enables me to build end-to-end solutions that meet the needs of my clients.
+My expertise in front-end technologies like React, Angular, and Vue.js, combined with my knowledge of back-end frameworks like MVC .NET, Node.js, ReactJS, VueJS, and Laravel, enables me to build end-to-end solutions that meet the needs for my projects.
 
 ## Latest Technologies
 
@@ -19,7 +19,7 @@ I'm always staying up-to-date with the latest technological advancements and exp
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid2538&show_icons=true&theme=radical)](https://github.com/rashid2538/github-readme-stats)
+[![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid2538&show_icons=true&theme=radical)](https://github.com/rashid2538/github-readme-stats)
 
 ## Get in Touch
 
